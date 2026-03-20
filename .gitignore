@@ -1,0 +1,14 @@
+# Never commit manuscript content
+scenes/
+tracks/
+drafts/
+compiled/
+raw-voice/
+*.epub
+*.mp3
+*.wav
+*.pdf
+
+# System
+.DS_Store
+*.swp
