@@ -76,7 +76,7 @@ This is the **public process repo** for a two-volume noir vignette book. It docu
 ### Volume Two — "You Probably Think This Song Is About You Too"
 - Structured as an album, not a book
 - Scenes are "tracks," pages are "sides," silences are "grooves"
-- Side A (observation) + Side B (inhabitation)
+- Side A + Side B
 - Bonus tracks, interludes, a hidden track
 - In progress
 
