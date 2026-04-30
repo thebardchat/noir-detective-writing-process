@@ -101,6 +101,6 @@ Built on Raspberry Pi 5 + Pironman 5-MAX.
 - Built on **Pi 5** (16GB, Pironman 5-MAX, RAID 1) — all local-first
 - **MEGA Crew**: 17 autonomous bots running 24/7, self-improving under the Constitution's 9 Pillars
 - **Gemini Strategist** (bot #17): Growth coach calling Gemini 2.5 Flash 4x/day
-- **42 MCP tools**, 4-node Ollama cluster, Weaviate RAG with 2,600+ knowledge objects
+- **42 MCP tools**, Weaviate + MCP stack, Weaviate RAG with 2,600+ knowledge objects
 - Volume One complete, available on Amazon KDP
 - Audiobook production pipeline: ffmpeg + ACX specs + pytest validation
